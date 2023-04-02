@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fabricmod:electrum_block"
+    }
+  ],
+  "result": {
+    "item": "fabricmod:electrum_ingot",
+    "count": 9
+  }
+}

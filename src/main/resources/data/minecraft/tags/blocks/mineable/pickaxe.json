@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "fabricmod:uran_block",
+    "fabricmod:uran_ore",
+    "fabricmod:electrum_block",
+    "fabricmod:redstone_infused_block"
+  ]
+}

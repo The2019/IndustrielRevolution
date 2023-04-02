@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fabricmod:uran_block"
+    }
+  ],
+  "result": {
+    "item": "fabricmod:uran_ingot",
+    "count": 9
+  }
+}

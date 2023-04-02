@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fabricmod:redstone_infused_ingot"
+    }
+  },
+  "result": {
+    "item": "fabricmod:redstone_infused_block"
+  }
+}

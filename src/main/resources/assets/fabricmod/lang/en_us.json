@@ -1,0 +1,13 @@
+{
+  "item.fabricmod.electrum_ingot": "Electrum Ingot",
+  "item.fabricmod.redstone_infused_ingot": "Infused Ingot",
+  "item.fabricmod.uran_ingot": "Uran Ingot",
+  "item.fabricmod.raw_uran": "Raw Uran",
+
+  "block.fabricmod.electrum_block": "Block of Electrum",
+  "block.fabricmod.redstone_infused_block": "Block of Infused Ingot",
+  "block.fabricmod.uran_block": "Block of Uran",
+  "block.fabricmod.uran_ore": "Uran Ore",
+
+  "itemGroup.fabricmod.metal": "Industriel Revolution Metals"
+}
